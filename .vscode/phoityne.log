@@ -1,0 +1,578 @@
+2019-07-12 15:25:52.489155000000 [48386(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-12 15:27:06.652980000000 [48527(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 15:40:24.834672000000 [26842(ThreadId 9)] ERROR APP - user error (loaded module can not find from path. </Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs> [("OS.FileSystem.Utils","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/OS/FileSystem/Utils.hs"),("Utils.Preclude","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Utils/Preclude.hs")])
+2019-07-16 15:40:26.051947000000 [26842(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 15:40:37.790711000000 [26885(ThreadId 9)] ERROR APP - user error (loaded module can not find from path. </Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs> [("OS.FileSystem.Utils","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/OS/FileSystem/Utils.hs"),("Utils.Preclude","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Utils/Preclude.hs")])
+2019-07-16 15:40:39.841193000000 [26885(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 15:40:50.747810000000 [26927(ThreadId 9)] ERROR APP - user error (loaded module can not find from path. </Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs> [("OS.FileSystem.Utils","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/OS/FileSystem/Utils.hs"),("Utils.Preclude","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Utils/Preclude.hs")])
+2019-07-16 15:40:52.794724000000 [26927(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 15:41:12.708678000000 [26972(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 15:41:34.890086000000 [27113(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 15:41:48.867915000000 [27159(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 15:42:29.851297000000 [27207(ThreadId 9)] ERROR APP - user error (loaded module can not find from path. </Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs> [("OS.FileSystem.Utils","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/OS/FileSystem/Utils.hs"),("Utils.Preclude","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Utils/Preclude.hs")])
+2019-07-16 15:42:31.883935000000 [27207(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 15:42:39.815064000000 [27255(ThreadId 9)] ERROR APP - user error (loaded module can not find from path. </Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs> [("OS.FileSystem.Utils","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/OS/FileSystem/Utils.hs"),("Utils.Preclude","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Utils/Preclude.hs")])
+2019-07-16 15:42:41.795625000000 [27255(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 15:43:24.793710000000 [27302(ThreadId 9)] ERROR APP - user error (loaded module can not find from path. </Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs> [("OS.FileSystem.Utils","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/OS/FileSystem/Utils.hs"),("Utils.Preclude","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Utils/Preclude.hs")])
+2019-07-16 15:43:25.894282000000 [27302(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 15:45:03.321504000000 [27350(ThreadId 9)] ERROR APP - user error (loaded module can not find from path. </Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs> [("OS.FileSystem.Utils","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/OS/FileSystem/Utils.hs"),("Utils.Preclude","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Utils/Preclude.hs")])
+2019-07-16 15:45:04.457083000000 [27350(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 15:46:32.230994000000 [27396(ThreadId 9)] ERROR APP - user error (loaded module can not find from path. </Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs> [("OS.FileSystem.Utils","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/OS/FileSystem/Utils.hs"),("Utils.Preclude","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Utils/Preclude.hs")])
+2019-07-16 15:46:34.264793000000 [27396(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 15:47:00.751422000000 [27443(ThreadId 9)] ERROR APP - user error (loaded module can not find from path. </Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs> [("OS.FileSystem.Utils","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/OS/FileSystem/Utils.hs"),("Utils.Preclude","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Utils/Preclude.hs")])
+2019-07-16 15:47:01.844675000000 [27443(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 15:48:33.605695000000 [27495(ThreadId 9)] ERROR APP - user error (loaded module can not find from path. </Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs> [("OS.FileSystem.Utils","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/OS/FileSystem/Utils.hs"),("Utils.Preclude","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Utils/Preclude.hs")])
+2019-07-16 15:48:35.608355000000 [27495(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 15:53:31.578243000000 [27555(ThreadId 9)] ERROR APP - user error (loaded module can not find from path. </Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs> [("OS.FileSystem.Utils","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/OS/FileSystem/Utils.hs"),("Utils.Preclude","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Utils/Preclude.hs")])
+2019-07-16 15:53:33.595605000000 [27555(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 15:54:00.923151000000 [27607(ThreadId 9)] ERROR APP - user error (loaded module can not find from path. </Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs> [("OS.FileSystem.Utils","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/OS/FileSystem/Utils.hs"),("Utils.Preclude","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Utils/Preclude.hs")])
+2019-07-16 15:54:02.813353000000 [27607(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 15:54:17.264506000000 [27651(ThreadId 9)] ERROR APP - user error (loaded module can not find from path. </Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs> [("OS.FileSystem.Utils","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/OS/FileSystem/Utils.hs"),("Utils.Preclude","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Utils/Preclude.hs")])
+2019-07-16 15:54:19.368966000000 [27651(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 15:55:03.206448000000 [27697(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 15:57:04.188073000000 [27798(ThreadId 9)] ERROR APP - user error (loaded module can not find from path. </Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs> [("OS.FileSystem.Utils","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/OS/FileSystem/Utils.hs"),("Utils.Preclude","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Utils/Preclude.hs")])
+2019-07-16 15:57:06.224412000000 [27798(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:01:27.580397000000 [28947(ThreadId 9)] ERROR APP - user error (loaded module can not find from path. </Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs> [("OS.FileSystem.Utils","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/OS/FileSystem/Utils.hs"),("Utils.Preclude","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Utils/Preclude.hs")])
+2019-07-16 16:01:29.213449000000 [28947(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:01:46.283870000000 [28996(ThreadId 9)] ERROR APP - user error (loaded module can not find from path. </Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs> [("OS.FileSystem.Utils","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/OS/FileSystem/Utils.hs"),("Utils.Preclude","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Utils/Preclude.hs")])
+2019-07-16 16:01:48.208654000000 [28996(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:02:02.653851000000 [29039(ThreadId 9)] ERROR APP - user error (loaded module can not find from path. </Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Lib.hs> [("OS.FileSystem.Utils","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/OS/FileSystem/Utils.hs"),("Utils.Preclude","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Utils/Preclude.hs")])
+2019-07-16 16:02:02.671664000000 [29039(ThreadId 9)] ERROR APP - user error (loaded module can not find from path. </Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs> [("OS.FileSystem.Utils","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/OS/FileSystem/Utils.hs"),("Utils.Preclude","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Utils/Preclude.hs")])
+2019-07-16 16:02:04.481898000000 [29039(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:03:10.171553000000 [29349(ThreadId 9)] ERROR APP - user error (loaded module can not find from path. </Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Lib.hs> [("OS.FileSystem.Utils","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/OS/FileSystem/Utils.hs"),("Utils.Preclude","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Utils/Preclude.hs")])
+2019-07-16 16:03:10.190638000000 [29349(ThreadId 9)] ERROR APP - user error (loaded module can not find from path. </Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs> [("OS.FileSystem.Utils","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/OS/FileSystem/Utils.hs"),("Utils.Preclude","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Utils/Preclude.hs")])
+2019-07-16 16:03:12.028130000000 [29349(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:03:53.525148000000 [29403(ThreadId 9)] ERROR APP - user error (loaded module can not find from path. </Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs> [("OS.FileSystem.Utils","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/OS/FileSystem/Utils.hs"),("Utils.Preclude","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Utils/Preclude.hs")])
+2019-07-16 16:03:54.891592000000 [29403(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:05:28.092815000000 [30284(ThreadId 9)] ERROR APP - user error (loaded module can not find from path. </Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs> [("OS.FileSystem.Utils","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/OS/FileSystem/Utils.hs"),("Utils.Preclude","/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Utils/Preclude.hs")])
+2019-07-16 16:05:30.011024000000 [30284(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:06:13.870222000000 [30329(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:07:03.187269000000 [30420(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:09:41.399181000000 [30903(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:12:00.272106000000 [31011(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:12:36.472198000000 [31081(ThreadId 9)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
+2019-07-16 16:13:05.359824000000 [31081(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:16:25.758386000000 [31335(ThreadId 9)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
+2019-07-16 16:17:19.673904000000 [31335(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:18:48.099080000000 [31482(ThreadId 9)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
+2019-07-16 16:19:20.799351000000 [31482(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:19:31.810892000000 [31539(ThreadId 9)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
+2019-07-16 16:19:55.564530000000 [31539(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:20:27.012325000000 [31604(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:27:30.741321000000 [31648(ThreadId 9)] ERROR APP - 
+2019-07-16 16:27:30.742444000000 [31648(ThreadId 9)] ERROR APP - <interactive>:18:1: error:
+2019-07-16 16:27:30.744733000000 [31648(ThreadId 9)] ERROR APP -     • No instance for (Show b) arising from a use of ‘print’
+2019-07-16 16:27:30.746073000000 [31648(ThreadId 9)] ERROR APP -       Cannot resolve unknown runtime type ‘b’
+2019-07-16 16:27:30.747519000000 [31648(ThreadId 9)] ERROR APP -       Use :print or :force to determine these types
+2019-07-16 16:27:30.748629000000 [31648(ThreadId 9)] ERROR APP -       Relevant bindings include it :: b (bound at <interactive>:18:1)
+2019-07-16 16:27:30.750015000000 [31648(ThreadId 9)] ERROR APP -       These potential instances exist:
+2019-07-16 16:27:30.751176000000 [31648(ThreadId 9)] ERROR APP -         instance (Show a, Show b) => Show (Either a b)
+2019-07-16 16:27:30.752793000000 [31648(ThreadId 9)] ERROR APP -           -- Defined in ‘Data.Either’
+2019-07-16 16:27:30.753917000000 [31648(ThreadId 9)] ERROR APP -         instance Show Int16 -- Defined in ‘GHC.Int’
+2019-07-16 16:27:30.755064000000 [31648(ThreadId 9)] ERROR APP -         instance Show Int32 -- Defined in ‘GHC.Int’
+2019-07-16 16:27:30.756063000000 [31648(ThreadId 9)] ERROR APP -         ...plus 34 others
+2019-07-16 16:27:30.757079000000 [31648(ThreadId 9)] ERROR APP -         ...plus 53 instances involving out-of-scope types
+2019-07-16 16:27:30.758266000000 [31648(ThreadId 9)] ERROR APP -         (use -fprint-potential-instances to see them all)
+2019-07-16 16:27:30.759404000000 [31648(ThreadId 9)] ERROR APP -     • In a stmt of an interactive GHCi command: print it
+2019-07-16 16:28:01.395989000000 [31648(ThreadId 9)] ERROR APP - 
+2019-07-16 16:28:01.397327000000 [31648(ThreadId 9)] ERROR APP - <interactive>:20:12: error:
+2019-07-16 16:28:01.398363000000 [31648(ThreadId 9)] ERROR APP -     Variable not in scope: initState :: BL.ByteString
+2019-07-16 16:28:33.094521000000 [31648(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:30:17.041507000000 [31727(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:35:58.458361000000 [31855(ThreadId 9)] ERROR APP - 
+2019-07-16 16:35:58.460516000000 [31855(ThreadId 9)] ERROR APP - <interactive>:25:1: error:
+2019-07-16 16:35:58.461629000000 [31855(ThreadId 9)] ERROR APP -     Variable not in scope: f :: ParseState -> t
+2019-07-16 16:35:58.462576000000 [31855(ThreadId 9)] ERROR APP - 
+2019-07-16 16:35:58.464222000000 [31855(ThreadId 9)] ERROR APP - <interactive>:25:15: error:
+2019-07-16 16:35:58.465374000000 [31855(ThreadId 9)] ERROR APP -     Variable not in scope: initState :: BL.ByteString
+2019-07-16 16:36:14.267242000000 [31855(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:36:52.925983000000 [31989(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:37:15.305619000000 [32033(ThreadId 9)] ERROR APP - "sfsdf"
+2019-07-16 16:37:15.308239000000 [32033(ThreadId 9)] ERROR APP - it :: BL.ByteString
+2019-07-16 16:37:46.212489000000 [32033(ThreadId 9)] ERROR APP - 
+2019-07-16 16:37:46.214756000000 [32033(ThreadId 9)] ERROR APP - <interactive>:22:1: error:
+2019-07-16 16:37:46.215811000000 [32033(ThreadId 9)] ERROR APP -     Variable not in scope: f :: ParseState -> t
+2019-07-16 16:37:46.217366000000 [32033(ThreadId 9)] ERROR APP - 
+2019-07-16 16:37:46.219919000000 [32033(ThreadId 9)] ERROR APP - <interactive>:22:15: error:
+2019-07-16 16:37:46.221234000000 [32033(ThreadId 9)] ERROR APP -     Variable not in scope: initState :: BL.ByteString
+2019-07-16 16:38:13.986873000000 [32033(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:39:42.292115000000 [32125(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:40:28.324318000000 [32183(ThreadId 8)] WARNING REQUEST - unsupported request command. {"command":"stepOut","arguments":{"threadId":0},"type":"request","seq":18}
+2019-07-16 16:40:35.772759000000 [32183(ThreadId 8)] WARNING REQUEST - unsupported request command. {"command":"stepOut","arguments":{"threadId":0},"type":"request","seq":19}
+2019-07-16 16:40:36.782635000000 [32183(ThreadId 8)] WARNING REQUEST - unsupported request command. {"command":"stepOut","arguments":{"threadId":0},"type":"request","seq":20}
+2019-07-16 16:40:38.865670000000 [32183(ThreadId 8)] WARNING REQUEST - unsupported request command. {"command":"stepOut","arguments":{"threadId":0},"type":"request","seq":21}
+2019-07-16 16:40:44.296302000000 [32183(ThreadId 8)] WARNING REQUEST - unsupported request command. {"command":"stepOut","arguments":{"threadId":0},"type":"request","seq":27}
+2019-07-16 16:40:45.911684000000 [32183(ThreadId 8)] WARNING REQUEST - unsupported request command. {"command":"stepOut","arguments":{"threadId":0},"type":"request","seq":28}
+2019-07-16 16:40:46.744896000000 [32183(ThreadId 8)] WARNING REQUEST - unsupported request command. {"command":"stepOut","arguments":{"threadId":0},"type":"request","seq":29}
+2019-07-16 16:40:48.802663000000 [32183(ThreadId 9)] ERROR APP - user error (no stacktrace found.)
+2019-07-16 16:40:48.849809000000 [32183(ThreadId 9)] ERROR APP - user error (no stacktrace found.)
+2019-07-16 16:40:53.981147000000 [32183(ThreadId 9)] ERROR APP - user error (ExecResult not found.)
+2019-07-16 16:40:55.062702000000 [32183(ThreadId 9)] ERROR APP - user error (ExecResult not found.)
+2019-07-16 16:40:55.958293000000 [32183(ThreadId 9)] ERROR APP - user error (ExecResult not found.)
+2019-07-16 16:40:56.607285000000 [32183(ThreadId 9)] ERROR APP - user error (ExecResult not found.)
+2019-07-16 16:41:03.092052000000 [32183(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:41:26.615159000000 [32228(ThreadId 9)] ERROR APP - 
+2019-07-16 16:41:26.616304000000 [32228(ThreadId 9)] ERROR APP - <interactive>:16:1: error:
+2019-07-16 16:41:26.617239000000 [32228(ThreadId 9)] ERROR APP -     • No instance for (Show a) arising from a use of ‘print’
+2019-07-16 16:41:26.618405000000 [32228(ThreadId 9)] ERROR APP -       Cannot resolve unknown runtime type ‘a’
+2019-07-16 16:41:26.619272000000 [32228(ThreadId 9)] ERROR APP -       Use :print or :force to determine these types
+2019-07-16 16:41:26.620408000000 [32228(ThreadId 9)] ERROR APP -       Relevant bindings include
+2019-07-16 16:41:26.621072000000 [32228(ThreadId 9)] ERROR APP -         it :: Either a (b, ParseState) (bound at <interactive>:16:1)
+2019-07-16 16:41:26.623135000000 [32228(ThreadId 9)] ERROR APP -       These potential instances exist:
+2019-07-16 16:41:26.624390000000 [32228(ThreadId 9)] ERROR APP -         instance (Show a, Show b) => Show (Either a b)
+2019-07-16 16:41:26.625333000000 [32228(ThreadId 9)] ERROR APP -           -- Defined in ‘Data.Either’
+2019-07-16 16:41:26.625992000000 [32228(ThreadId 9)] ERROR APP -         instance Show Int16 -- Defined in ‘GHC.Int’
+2019-07-16 16:41:26.626815000000 [32228(ThreadId 9)] ERROR APP -         instance Show Int32 -- Defined in ‘GHC.Int’
+2019-07-16 16:41:26.627269000000 [32228(ThreadId 9)] ERROR APP -         ...plus 34 others
+2019-07-16 16:41:26.627681000000 [32228(ThreadId 9)] ERROR APP -         ...plus 53 instances involving out-of-scope types
+2019-07-16 16:41:26.628227000000 [32228(ThreadId 9)] ERROR APP -         (use -fprint-potential-instances to see them all)
+2019-07-16 16:41:26.629139000000 [32228(ThreadId 9)] ERROR APP -     • In a stmt of an interactive GHCi command: print it
+2019-07-16 16:42:12.106420000000 [32228(ThreadId 9)] ERROR APP - 
+2019-07-16 16:42:12.107067000000 [32228(ThreadId 9)] ERROR APP - <interactive>:20:33: error:
+2019-07-16 16:42:12.108238000000 [32228(ThreadId 9)] ERROR APP -     parse error (possibly incorrect indentation or mismatched brackets)
+2019-07-16 16:42:23.228843000000 [32228(ThreadId 9)] ERROR APP - 
+2019-07-16 16:42:23.229668000000 [32228(ThreadId 9)] ERROR APP - <interactive>:21:1: error:
+2019-07-16 16:42:23.231055000000 [32228(ThreadId 9)] ERROR APP -     • No instance for (Show a) arising from a use of ‘print’
+2019-07-16 16:42:23.232739000000 [32228(ThreadId 9)] ERROR APP -       Cannot resolve unknown runtime type ‘a’
+2019-07-16 16:42:23.234082000000 [32228(ThreadId 9)] ERROR APP -       Use :print or :force to determine these types
+2019-07-16 16:42:23.235456000000 [32228(ThreadId 9)] ERROR APP -       Relevant bindings include
+2019-07-16 16:42:23.237395000000 [32228(ThreadId 9)] ERROR APP -         it :: Either a (b, ParseState) (bound at <interactive>:21:1)
+2019-07-16 16:42:23.239529000000 [32228(ThreadId 9)] ERROR APP -       These potential instances exist:
+2019-07-16 16:42:23.241171000000 [32228(ThreadId 9)] ERROR APP -         instance (Show a, Show b) => Show (Either a b)
+2019-07-16 16:42:23.242529000000 [32228(ThreadId 9)] ERROR APP -           -- Defined in ‘Data.Either’
+2019-07-16 16:42:23.244291000000 [32228(ThreadId 9)] ERROR APP -         instance Show Int16 -- Defined in ‘GHC.Int’
+2019-07-16 16:42:23.245541000000 [32228(ThreadId 9)] ERROR APP -         instance Show Int32 -- Defined in ‘GHC.Int’
+2019-07-16 16:42:23.246984000000 [32228(ThreadId 9)] ERROR APP -         ...plus 34 others
+2019-07-16 16:42:23.247936000000 [32228(ThreadId 9)] ERROR APP -         ...plus 53 instances involving out-of-scope types
+2019-07-16 16:42:23.249254000000 [32228(ThreadId 9)] ERROR APP -         (use -fprint-potential-instances to see them all)
+2019-07-16 16:42:23.250549000000 [32228(ThreadId 9)] ERROR APP -     • In a stmt of an interactive GHCi command: print it
+2019-07-16 16:43:08.928002000000 [32228(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:46:26.689241000000 [32286(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:46:31.014114000000 [32518(ThreadId 9)] ERROR APP - invalid HANDLE. eof.
+2019-07-16 16:47:07.053673000000 [32541(ThreadId 9)] ERROR APP - invalid HANDLE. eof.
+2019-07-16 16:47:35.135292000000 [32552(ThreadId 9)] ERROR APP - invalid HANDLE. eof.
+2019-07-16 16:47:54.432042000000 [32565(ThreadId 9)] ERROR APP - invalid HANDLE. eof.
+2019-07-16 16:48:45.372452000000 [32590(ThreadId 9)] ERROR APP - invalid HANDLE. eof.
+2019-07-16 16:49:02.933843000000 [32600(ThreadId 9)] ERROR APP - invalid HANDLE. eof.
+2019-07-16 16:49:38.832872000000 [32617(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:50:54.201968000000 [32850(ThreadId 9)] ERROR APP - invalid HANDLE. eof.
+2019-07-16 16:51:08.717173000000 [32869(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:51:17.354637000000 [32922(ThreadId 9)] ERROR APP - invalid HANDLE. eof.
+2019-07-16 16:51:44.296770000000 [32941(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:51:58.226464000000 [32996(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:52:28.332694000000 [33044(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 16:52:37.643194000000 [33089(ThreadId 9)] ERROR APP - 
+2019-07-16 16:52:37.644656000000 [33089(ThreadId 9)] ERROR APP - <interactive>:13:1: error:
+2019-07-16 16:52:37.645215000000 [33089(ThreadId 9)] ERROR APP -     • No instance for (Show a) arising from a use of ‘print’
+2019-07-16 16:52:37.650104000000 [33089(ThreadId 9)] ERROR APP -       Cannot resolve unknown runtime type ‘a’
+2019-07-16 16:52:37.650863000000 [33089(ThreadId 9)] ERROR APP -       Use :print or :force to determine these types
+2019-07-16 16:52:37.651588000000 [33089(ThreadId 9)] ERROR APP -       Relevant bindings include
+2019-07-16 16:52:37.652080000000 [33089(ThreadId 9)] ERROR APP -         it :: Either a (b, ParseState) (bound at <interactive>:13:1)
+2019-07-16 16:52:37.652738000000 [33089(ThreadId 9)] ERROR APP -       These potential instances exist:
+2019-07-16 16:52:37.653168000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b) => Show (Either a b)
+2019-07-16 16:52:37.653620000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘Data.Either’
+2019-07-16 16:52:37.653997000000 [33089(ThreadId 9)] ERROR APP -         instance Show Int16 -- Defined in ‘GHC.Int’
+2019-07-16 16:52:37.654694000000 [33089(ThreadId 9)] ERROR APP -         instance Show Int32 -- Defined in ‘GHC.Int’
+2019-07-16 16:52:37.656027000000 [33089(ThreadId 9)] ERROR APP -         instance Show Int64 -- Defined in ‘GHC.Int’
+2019-07-16 16:52:37.656761000000 [33089(ThreadId 9)] ERROR APP -         instance Show Int8 -- Defined in ‘GHC.Int’
+2019-07-16 16:52:37.658642000000 [33089(ThreadId 9)] ERROR APP -         instance Show Word16 -- Defined in ‘GHC.Word’
+2019-07-16 16:52:37.659409000000 [33089(ThreadId 9)] ERROR APP -         instance Show Word32 -- Defined in ‘GHC.Word’
+2019-07-16 16:52:37.660150000000 [33089(ThreadId 9)] ERROR APP -         instance Show Word64 -- Defined in ‘GHC.Word’
+2019-07-16 16:52:37.660794000000 [33089(ThreadId 9)] ERROR APP -         instance Show BL.ByteString
+2019-07-16 16:52:37.661644000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘Data.ByteString.Lazy.Internal’
+2019-07-16 16:52:37.663695000000 [33089(ThreadId 9)] ERROR APP -         instance Show Ordering -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.664391000000 [33089(ThreadId 9)] ERROR APP -         instance Show Integer -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.665506000000 [33089(ThreadId 9)] ERROR APP -         instance Show GreyMap
+2019-07-16 16:52:37.666117000000 [33089(ThreadId 9)] ERROR APP -           -- Defined at /Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs:44:10
+2019-07-16 16:52:37.666827000000 [33089(ThreadId 9)] ERROR APP -         instance Show ParseState
+2019-07-16 16:52:37.667211000000 [33089(ThreadId 9)] ERROR APP -           -- Defined at /Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs:115:13
+2019-07-16 16:52:37.667876000000 [33089(ThreadId 9)] ERROR APP -         instance Show a => Show (Maybe a) -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.668341000000 [33089(ThreadId 9)] ERROR APP -         instance Show Word8 -- Defined in ‘GHC.Word’
+2019-07-16 16:52:37.668789000000 [33089(ThreadId 9)] ERROR APP -         instance Show () -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.669357000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b) => Show (a, b) -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.670389000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c) => Show (a, b, c)
+2019-07-16 16:52:37.671119000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.671749000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d) => Show (a, b, c, d)
+2019-07-16 16:52:37.672432000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.673093000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d, Show e) =>
+2019-07-16 16:52:37.673870000000 [33089(ThreadId 9)] ERROR APP -                  Show (a, b, c, d, e)
+2019-07-16 16:52:37.674452000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.675058000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d, Show e, Show f) =>
+2019-07-16 16:52:37.675810000000 [33089(ThreadId 9)] ERROR APP -                  Show (a, b, c, d, e, f)
+2019-07-16 16:52:37.676969000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.677634000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d, Show e, Show f,
+2019-07-16 16:52:37.678706000000 [33089(ThreadId 9)] ERROR APP -                   Show g) =>
+2019-07-16 16:52:37.679336000000 [33089(ThreadId 9)] ERROR APP -                  Show (a, b, c, d, e, f, g)
+2019-07-16 16:52:37.680003000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.680622000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d, Show e, Show f, Show g,
+2019-07-16 16:52:37.681508000000 [33089(ThreadId 9)] ERROR APP -                   Show h) =>
+2019-07-16 16:52:37.682047000000 [33089(ThreadId 9)] ERROR APP -                  Show (a, b, c, d, e, f, g, h)
+2019-07-16 16:52:37.682664000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.683276000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d, Show e, Show f, Show g,
+2019-07-16 16:52:37.684656000000 [33089(ThreadId 9)] ERROR APP -                   Show h, Show i) =>
+2019-07-16 16:52:37.685242000000 [33089(ThreadId 9)] ERROR APP -                  Show (a, b, c, d, e, f, g, h, i)
+2019-07-16 16:52:37.685967000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.686620000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d, Show e, Show f, Show g,
+2019-07-16 16:52:37.687385000000 [33089(ThreadId 9)] ERROR APP -                   Show h, Show i, Show j) =>
+2019-07-16 16:52:37.688007000000 [33089(ThreadId 9)] ERROR APP -                  Show (a, b, c, d, e, f, g, h, i, j)
+2019-07-16 16:52:37.690046000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.691124000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d, Show e, Show f, Show g,
+2019-07-16 16:52:37.694994000000 [33089(ThreadId 9)] ERROR APP -                   Show h, Show i, Show j, Show k) =>
+2019-07-16 16:52:37.696502000000 [33089(ThreadId 9)] ERROR APP -                  Show (a, b, c, d, e, f, g, h, i, j, k)
+2019-07-16 16:52:37.697193000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.697787000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d, Show e, Show f, Show g,
+2019-07-16 16:52:37.698584000000 [33089(ThreadId 9)] ERROR APP -                   Show h, Show i, Show j, Show k, Show l) =>
+2019-07-16 16:52:37.699288000000 [33089(ThreadId 9)] ERROR APP -                  Show (a, b, c, d, e, f, g, h, i, j, k, l)
+2019-07-16 16:52:37.699978000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.701917000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d, Show e, Show f, Show g,
+2019-07-16 16:52:37.702599000000 [33089(ThreadId 9)] ERROR APP -                   Show h, Show i, Show j, Show k, Show l, Show m) =>
+2019-07-16 16:52:37.703830000000 [33089(ThreadId 9)] ERROR APP -                  Show (a, b, c, d, e, f, g, h, i, j, k, l, m)
+2019-07-16 16:52:37.704528000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.705113000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d, Show e, Show f, Show g,
+2019-07-16 16:52:37.705860000000 [33089(ThreadId 9)] ERROR APP -                   Show h, Show i, Show j, Show k, Show l, Show m, Show n) =>
+2019-07-16 16:52:37.708637000000 [33089(ThreadId 9)] ERROR APP -                  Show (a, b, c, d, e, f, g, h, i, j, k, l, m, n)
+2019-07-16 16:52:37.709496000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.710174000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d, Show e, Show f, Show g,
+2019-07-16 16:52:37.710728000000 [33089(ThreadId 9)] ERROR APP -                   Show h, Show i, Show j, Show k, Show l, Show m, Show n, Show o) =>
+2019-07-16 16:52:37.711612000000 [33089(ThreadId 9)] ERROR APP -                  Show (a, b, c, d, e, f, g, h, i, j, k, l, m, n, o)
+2019-07-16 16:52:37.712566000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.713142000000 [33089(ThreadId 9)] ERROR APP -         instance Show Bool -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.713577000000 [33089(ThreadId 9)] ERROR APP -         instance Show Char -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.714069000000 [33089(ThreadId 9)] ERROR APP -         instance Show Double -- Defined in ‘GHC.Float’
+2019-07-16 16:52:37.714628000000 [33089(ThreadId 9)] ERROR APP -         instance Show Float -- Defined in ‘GHC.Float’
+2019-07-16 16:52:37.715053000000 [33089(ThreadId 9)] ERROR APP -         instance Show Int -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.715462000000 [33089(ThreadId 9)] ERROR APP -         instance Show Word -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.715898000000 [33089(ThreadId 9)] ERROR APP -         instance Show a => Show [a] -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.716670000000 [33089(ThreadId 9)] ERROR APP -         ...plus 53 instances involving out-of-scope types
+2019-07-16 16:52:37.717394000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Handle.HandlePosn
+2019-07-16 16:52:37.718019000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Handle’
+2019-07-16 16:52:37.718428000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Handle.Types.BufferMode
+2019-07-16 16:52:37.718874000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Handle.Types’
+2019-07-16 16:52:37.719277000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Handle.Types.Handle
+2019-07-16 16:52:37.719740000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Handle.Types’
+2019-07-16 16:52:37.720170000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Handle.Types.HandleType
+2019-07-16 16:52:37.720645000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Handle.Types’
+2019-07-16 16:52:37.721406000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Handle.Types.Newline
+2019-07-16 16:52:37.722080000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Handle.Types’
+2019-07-16 16:52:37.722967000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Handle.Types.NewlineMode
+2019-07-16 16:52:37.723993000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Handle.Types’
+2019-07-16 16:52:37.724603000000 [33089(ThreadId 9)] ERROR APP -           instance [safe] Show
+2019-07-16 16:52:37.725151000000 [33089(ThreadId 9)] ERROR APP -                             time-1.8.0.2:Data.Time.Format.Parse.DateFormatSpec
+2019-07-16 16:52:37.726209000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘time-1.8.0.2:Data.Time.Format.Parse’
+2019-07-16 16:52:37.728308000000 [33089(ThreadId 9)] ERROR APP -           instance [safe] Show time-1.8.0.2:Data.Time.Format.Parse.Padding
+2019-07-16 16:52:37.728985000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘time-1.8.0.2:Data.Time.Format.Parse’
+2019-07-16 16:52:37.729879000000 [33089(ThreadId 9)] ERROR APP -           instance [safe] Show
+2019-07-16 16:52:37.730434000000 [33089(ThreadId 9)] ERROR APP -                             time-1.8.0.2:Data.Time.Clock.Internal.UTCTime.UTCTime
+2019-07-16 16:52:37.731060000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘time-1.8.0.2:Data.Time.LocalTime.Internal.ZonedTime’
+2019-07-16 16:52:37.731611000000 [33089(ThreadId 9)] ERROR APP -           instance [safe] Show
+2019-07-16 16:52:37.732018000000 [33089(ThreadId 9)] ERROR APP -                             time-1.8.0.2:Data.Time.LocalTime.Internal.ZonedTime.ZonedTime
+2019-07-16 16:52:37.732935000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘time-1.8.0.2:Data.Time.LocalTime.Internal.ZonedTime’
+2019-07-16 16:52:37.733745000000 [33089(ThreadId 9)] ERROR APP -           instance [safe] Show
+2019-07-16 16:52:37.734257000000 [33089(ThreadId 9)] ERROR APP -                             time-1.8.0.2:Data.Time.LocalTime.Internal.LocalTime.LocalTime
+2019-07-16 16:52:37.735244000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘time-1.8.0.2:Data.Time.LocalTime.Internal.LocalTime’
+2019-07-16 16:52:37.736270000000 [33089(ThreadId 9)] ERROR APP -           instance [safe] Show
+2019-07-16 16:52:37.736654000000 [33089(ThreadId 9)] ERROR APP -                             time-1.8.0.2:Data.Time.Clock.Internal.UniversalTime.UniversalTime
+2019-07-16 16:52:37.737449000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘time-1.8.0.2:Data.Time.LocalTime.Internal.LocalTime’
+2019-07-16 16:52:37.737964000000 [33089(ThreadId 9)] ERROR APP -           instance [safe] Show time-1.8.0.2:Data.Time.Calendar.Days.Day
+2019-07-16 16:52:37.738613000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘time-1.8.0.2:Data.Time.Calendar.Gregorian’
+2019-07-16 16:52:37.739334000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.Exception.Type.ArithException
+2019-07-16 16:52:37.740797000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Exception.Type’
+2019-07-16 16:52:37.743300000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.Exception.Type.SomeException
+2019-07-16 16:52:37.744046000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Exception.Type’
+2019-07-16 16:52:37.744711000000 [33089(ThreadId 9)] ERROR APP -           instance Show Control.Exception.Base.NestedAtomically
+2019-07-16 16:52:37.745467000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘Control.Exception.Base’
+2019-07-16 16:52:37.746145000000 [33089(ThreadId 9)] ERROR APP -           instance Show Control.Exception.Base.NoMethodError
+2019-07-16 16:52:37.746882000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘Control.Exception.Base’
+2019-07-16 16:52:37.747472000000 [33089(ThreadId 9)] ERROR APP -           instance Show Control.Exception.Base.NonTermination
+2019-07-16 16:52:37.748235000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘Control.Exception.Base’
+2019-07-16 16:52:37.748749000000 [33089(ThreadId 9)] ERROR APP -           instance Show Control.Exception.Base.PatternMatchFail
+2019-07-16 16:52:37.749847000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘Control.Exception.Base’
+2019-07-16 16:52:37.750484000000 [33089(ThreadId 9)] ERROR APP -           instance Show Control.Exception.Base.RecConError
+2019-07-16 16:52:37.751168000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘Control.Exception.Base’
+2019-07-16 16:52:37.751872000000 [33089(ThreadId 9)] ERROR APP -           instance Show Control.Exception.Base.RecSelError
+2019-07-16 16:52:37.752574000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘Control.Exception.Base’
+2019-07-16 16:52:37.753238000000 [33089(ThreadId 9)] ERROR APP -           instance Show Control.Exception.Base.RecUpdError
+2019-07-16 16:52:37.754015000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘Control.Exception.Base’
+2019-07-16 16:52:37.754673000000 [33089(ThreadId 9)] ERROR APP -           instance Show Control.Exception.Base.TypeError
+2019-07-16 16:52:37.761459000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘Control.Exception.Base’
+2019-07-16 16:52:37.762579000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.Stack.Types.CallStack -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.763120000000 [33089(ThreadId 9)] ERROR APP -           instance Show ghc-prim-0.5.3:GHC.Types.KindRep
+2019-07-16 16:52:37.763561000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.763970000000 [33089(ThreadId 9)] ERROR APP -           instance Show ghc-prim-0.5.3:GHC.Types.Module
+2019-07-16 16:52:37.764402000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.764766000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.Natural.Natural -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.765277000000 [33089(ThreadId 9)] ERROR APP -           instance Show a => Show (GHC.Base.NonEmpty a)
+2019-07-16 16:52:37.765888000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.766728000000 [33089(ThreadId 9)] ERROR APP -           instance Show ghc-prim-0.5.3:GHC.Types.RuntimeRep
+2019-07-16 16:52:37.767503000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.768148000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.Stack.Types.SrcLoc -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.768983000000 [33089(ThreadId 9)] ERROR APP -           instance Show ghc-prim-0.5.3:GHC.Types.TrName
+2019-07-16 16:52:37.769682000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.770079000000 [33089(ThreadId 9)] ERROR APP -           instance Show ghc-prim-0.5.3:GHC.Types.TyCon
+2019-07-16 16:52:37.770807000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.771420000000 [33089(ThreadId 9)] ERROR APP -           instance Show ghc-prim-0.5.3:GHC.Types.TypeLitSort
+2019-07-16 16:52:37.772330000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.774390000000 [33089(ThreadId 9)] ERROR APP -           instance Show ghc-prim-0.5.3:GHC.Types.VecCount
+2019-07-16 16:52:37.775493000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.775870000000 [33089(ThreadId 9)] ERROR APP -           instance Show ghc-prim-0.5.3:GHC.Types.VecElem
+2019-07-16 16:52:37.776303000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Show’
+2019-07-16 16:52:37.776708000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.Unicode.GeneralCategory
+2019-07-16 16:52:37.777128000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Unicode’
+2019-07-16 16:52:37.777504000000 [33089(ThreadId 9)] ERROR APP -           instance Show a => Show (GHC.Real.Ratio a) -- Defined in ‘GHC.Real’
+2019-07-16 16:52:37.778042000000 [33089(ThreadId 9)] ERROR APP -           instance forall k (a :: k) (b :: k).
+2019-07-16 16:52:37.778445000000 [33089(ThreadId 9)] ERROR APP -                    Show (a Data.Type.Equality.:~: b)
+2019-07-16 16:52:37.779170000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘Data.Type.Equality’
+2019-07-16 16:52:37.779748000000 [33089(ThreadId 9)] ERROR APP -           instance forall k2 k1 (a :: k1) (b :: k2).
+2019-07-16 16:52:37.780179000000 [33089(ThreadId 9)] ERROR APP -                    Show (a Data.Type.Equality.:~~: b)
+2019-07-16 16:52:37.780656000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘Data.Type.Equality’
+2019-07-16 16:52:37.781058000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.AllocationLimitExceeded
+2019-07-16 16:52:37.781520000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:37.782116000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.ArrayException
+2019-07-16 16:52:37.782550000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:37.782979000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.AssertionFailed
+2019-07-16 16:52:37.783697000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:37.784312000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.AsyncException
+2019-07-16 16:52:37.784767000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:37.785353000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.BlockedIndefinitelyOnMVar
+2019-07-16 16:52:37.785870000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:37.786322000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.BlockedIndefinitelyOnSTM
+2019-07-16 16:52:37.786821000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:37.787290000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.CompactionFailed
+2019-07-16 16:52:37.787734000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:37.788490000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.Deadlock
+2019-07-16 16:52:37.789200000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:37.790212000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.ExitCode
+2019-07-16 16:52:37.791038000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:37.791507000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.FixIOException
+2019-07-16 16:52:37.792162000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:37.794589000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.IOErrorType
+2019-07-16 16:52:37.795549000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:37.796198000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.IOException
+2019-07-16 16:52:37.797399000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:37.798112000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.SomeAsyncException
+2019-07-16 16:52:37.798888000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:37.799541000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.MaskingState -- Defined in ‘GHC.IO’
+2019-07-16 16:52:37.800324000000 [33089(ThreadId 9)] ERROR APP -     • In a stmt of an interactive GHCi command: print it
+2019-07-16 16:52:56.357844000000 [33089(ThreadId 9)] ERROR APP - 
+2019-07-16 16:52:56.358454000000 [33089(ThreadId 9)] ERROR APP - <interactive>:14:1: error:
+2019-07-16 16:52:56.358811000000 [33089(ThreadId 9)] ERROR APP -     • No instance for (Show a) arising from a use of ‘print’
+2019-07-16 16:52:56.359353000000 [33089(ThreadId 9)] ERROR APP -       Cannot resolve unknown runtime type ‘a’
+2019-07-16 16:52:56.359943000000 [33089(ThreadId 9)] ERROR APP -       Use :print or :force to determine these types
+2019-07-16 16:52:56.360638000000 [33089(ThreadId 9)] ERROR APP -       Relevant bindings include
+2019-07-16 16:52:56.361522000000 [33089(ThreadId 9)] ERROR APP -         it :: Either a (b, ParseState) (bound at <interactive>:14:1)
+2019-07-16 16:52:56.362166000000 [33089(ThreadId 9)] ERROR APP -       These potential instances exist:
+2019-07-16 16:52:56.362677000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b) => Show (Either a b)
+2019-07-16 16:52:56.363106000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘Data.Either’
+2019-07-16 16:52:56.363835000000 [33089(ThreadId 9)] ERROR APP -         instance Show Int16 -- Defined in ‘GHC.Int’
+2019-07-16 16:52:56.365011000000 [33089(ThreadId 9)] ERROR APP -         instance Show Int32 -- Defined in ‘GHC.Int’
+2019-07-16 16:52:56.365699000000 [33089(ThreadId 9)] ERROR APP -         instance Show Int64 -- Defined in ‘GHC.Int’
+2019-07-16 16:52:56.366280000000 [33089(ThreadId 9)] ERROR APP -         instance Show Int8 -- Defined in ‘GHC.Int’
+2019-07-16 16:52:56.366841000000 [33089(ThreadId 9)] ERROR APP -         instance Show Word16 -- Defined in ‘GHC.Word’
+2019-07-16 16:52:56.367847000000 [33089(ThreadId 9)] ERROR APP -         instance Show Word32 -- Defined in ‘GHC.Word’
+2019-07-16 16:52:56.368634000000 [33089(ThreadId 9)] ERROR APP -         instance Show Word64 -- Defined in ‘GHC.Word’
+2019-07-16 16:52:56.369838000000 [33089(ThreadId 9)] ERROR APP -         instance Show BL.ByteString
+2019-07-16 16:52:56.370422000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘Data.ByteString.Lazy.Internal’
+2019-07-16 16:52:56.371182000000 [33089(ThreadId 9)] ERROR APP -         instance Show Ordering -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.371856000000 [33089(ThreadId 9)] ERROR APP -         instance Show Integer -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.372702000000 [33089(ThreadId 9)] ERROR APP -         instance Show GreyMap
+2019-07-16 16:52:56.373537000000 [33089(ThreadId 9)] ERROR APP -           -- Defined at /Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs:44:10
+2019-07-16 16:52:56.375650000000 [33089(ThreadId 9)] ERROR APP -         instance Show ParseState
+2019-07-16 16:52:56.376347000000 [33089(ThreadId 9)] ERROR APP -           -- Defined at /Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs:115:13
+2019-07-16 16:52:56.377136000000 [33089(ThreadId 9)] ERROR APP -         instance Show a => Show (Maybe a) -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.377833000000 [33089(ThreadId 9)] ERROR APP -         instance Show Word8 -- Defined in ‘GHC.Word’
+2019-07-16 16:52:56.378450000000 [33089(ThreadId 9)] ERROR APP -         instance Show () -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.378890000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b) => Show (a, b) -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.379613000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c) => Show (a, b, c)
+2019-07-16 16:52:56.380063000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.380609000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d) => Show (a, b, c, d)
+2019-07-16 16:52:56.382219000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.382630000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d, Show e) =>
+2019-07-16 16:52:56.383073000000 [33089(ThreadId 9)] ERROR APP -                  Show (a, b, c, d, e)
+2019-07-16 16:52:56.383466000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.384136000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d, Show e, Show f) =>
+2019-07-16 16:52:56.384818000000 [33089(ThreadId 9)] ERROR APP -                  Show (a, b, c, d, e, f)
+2019-07-16 16:52:56.385365000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.385827000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d, Show e, Show f,
+2019-07-16 16:52:56.386534000000 [33089(ThreadId 9)] ERROR APP -                   Show g) =>
+2019-07-16 16:52:56.387213000000 [33089(ThreadId 9)] ERROR APP -                  Show (a, b, c, d, e, f, g)
+2019-07-16 16:52:56.388014000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.388616000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d, Show e, Show f, Show g,
+2019-07-16 16:52:56.389435000000 [33089(ThreadId 9)] ERROR APP -                   Show h) =>
+2019-07-16 16:52:56.390071000000 [33089(ThreadId 9)] ERROR APP -                  Show (a, b, c, d, e, f, g, h)
+2019-07-16 16:52:56.390773000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.391402000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d, Show e, Show f, Show g,
+2019-07-16 16:52:56.392171000000 [33089(ThreadId 9)] ERROR APP -                   Show h, Show i) =>
+2019-07-16 16:52:56.392899000000 [33089(ThreadId 9)] ERROR APP -                  Show (a, b, c, d, e, f, g, h, i)
+2019-07-16 16:52:56.393530000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.394994000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d, Show e, Show f, Show g,
+2019-07-16 16:52:56.395762000000 [33089(ThreadId 9)] ERROR APP -                   Show h, Show i, Show j) =>
+2019-07-16 16:52:56.396301000000 [33089(ThreadId 9)] ERROR APP -                  Show (a, b, c, d, e, f, g, h, i, j)
+2019-07-16 16:52:56.397027000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.397666000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d, Show e, Show f, Show g,
+2019-07-16 16:52:56.398435000000 [33089(ThreadId 9)] ERROR APP -                   Show h, Show i, Show j, Show k) =>
+2019-07-16 16:52:56.399139000000 [33089(ThreadId 9)] ERROR APP -                  Show (a, b, c, d, e, f, g, h, i, j, k)
+2019-07-16 16:52:56.399857000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.400517000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d, Show e, Show f, Show g,
+2019-07-16 16:52:56.401649000000 [33089(ThreadId 9)] ERROR APP -                   Show h, Show i, Show j, Show k, Show l) =>
+2019-07-16 16:52:56.402506000000 [33089(ThreadId 9)] ERROR APP -                  Show (a, b, c, d, e, f, g, h, i, j, k, l)
+2019-07-16 16:52:56.403276000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.403855000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d, Show e, Show f, Show g,
+2019-07-16 16:52:56.404841000000 [33089(ThreadId 9)] ERROR APP -                   Show h, Show i, Show j, Show k, Show l, Show m) =>
+2019-07-16 16:52:56.405424000000 [33089(ThreadId 9)] ERROR APP -                  Show (a, b, c, d, e, f, g, h, i, j, k, l, m)
+2019-07-16 16:52:56.406313000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.407171000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d, Show e, Show f, Show g,
+2019-07-16 16:52:56.408468000000 [33089(ThreadId 9)] ERROR APP -                   Show h, Show i, Show j, Show k, Show l, Show m, Show n) =>
+2019-07-16 16:52:56.409394000000 [33089(ThreadId 9)] ERROR APP -                  Show (a, b, c, d, e, f, g, h, i, j, k, l, m, n)
+2019-07-16 16:52:56.410287000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.411307000000 [33089(ThreadId 9)] ERROR APP -         instance (Show a, Show b, Show c, Show d, Show e, Show f, Show g,
+2019-07-16 16:52:56.412402000000 [33089(ThreadId 9)] ERROR APP -                   Show h, Show i, Show j, Show k, Show l, Show m, Show n, Show o) =>
+2019-07-16 16:52:56.413330000000 [33089(ThreadId 9)] ERROR APP -                  Show (a, b, c, d, e, f, g, h, i, j, k, l, m, n, o)
+2019-07-16 16:52:56.414155000000 [33089(ThreadId 9)] ERROR APP -           -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.414703000000 [33089(ThreadId 9)] ERROR APP -         instance Show Bool -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.417040000000 [33089(ThreadId 9)] ERROR APP -         instance Show Char -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.426420000000 [33089(ThreadId 9)] ERROR APP -         instance Show Double -- Defined in ‘GHC.Float’
+2019-07-16 16:52:56.428350000000 [33089(ThreadId 9)] ERROR APP -         instance Show Float -- Defined in ‘GHC.Float’
+2019-07-16 16:52:56.429084000000 [33089(ThreadId 9)] ERROR APP -         instance Show Int -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.429775000000 [33089(ThreadId 9)] ERROR APP -         instance Show Word -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.430441000000 [33089(ThreadId 9)] ERROR APP -         instance Show a => Show [a] -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.431062000000 [33089(ThreadId 9)] ERROR APP -         ...plus 53 instances involving out-of-scope types
+2019-07-16 16:52:56.431647000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Handle.HandlePosn
+2019-07-16 16:52:56.432321000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Handle’
+2019-07-16 16:52:56.432818000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Handle.Types.BufferMode
+2019-07-16 16:52:56.438547000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Handle.Types’
+2019-07-16 16:52:56.439559000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Handle.Types.Handle
+2019-07-16 16:52:56.440379000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Handle.Types’
+2019-07-16 16:52:56.441240000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Handle.Types.HandleType
+2019-07-16 16:52:56.441999000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Handle.Types’
+2019-07-16 16:52:56.442761000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Handle.Types.Newline
+2019-07-16 16:52:56.443472000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Handle.Types’
+2019-07-16 16:52:56.444290000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Handle.Types.NewlineMode
+2019-07-16 16:52:56.444927000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Handle.Types’
+2019-07-16 16:52:56.446081000000 [33089(ThreadId 9)] ERROR APP -           instance [safe] Show
+2019-07-16 16:52:56.446698000000 [33089(ThreadId 9)] ERROR APP -                             time-1.8.0.2:Data.Time.Format.Parse.DateFormatSpec
+2019-07-16 16:52:56.447530000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘time-1.8.0.2:Data.Time.Format.Parse’
+2019-07-16 16:52:56.448184000000 [33089(ThreadId 9)] ERROR APP -           instance [safe] Show time-1.8.0.2:Data.Time.Format.Parse.Padding
+2019-07-16 16:52:56.450005000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘time-1.8.0.2:Data.Time.Format.Parse’
+2019-07-16 16:52:56.454438000000 [33089(ThreadId 9)] ERROR APP -           instance [safe] Show
+2019-07-16 16:52:56.455508000000 [33089(ThreadId 9)] ERROR APP -                             time-1.8.0.2:Data.Time.Clock.Internal.UTCTime.UTCTime
+2019-07-16 16:52:56.456787000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘time-1.8.0.2:Data.Time.LocalTime.Internal.ZonedTime’
+2019-07-16 16:52:56.481999000000 [33089(ThreadId 9)] ERROR APP -           instance [safe] Show
+2019-07-16 16:52:56.495406000000 [33089(ThreadId 9)] ERROR APP -                             time-1.8.0.2:Data.Time.LocalTime.Internal.ZonedTime.ZonedTime
+2019-07-16 16:52:56.498175000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘time-1.8.0.2:Data.Time.LocalTime.Internal.ZonedTime’
+2019-07-16 16:52:56.499098000000 [33089(ThreadId 9)] ERROR APP -           instance [safe] Show
+2019-07-16 16:52:56.500266000000 [33089(ThreadId 9)] ERROR APP -                             time-1.8.0.2:Data.Time.LocalTime.Internal.LocalTime.LocalTime
+2019-07-16 16:52:56.501266000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘time-1.8.0.2:Data.Time.LocalTime.Internal.LocalTime’
+2019-07-16 16:52:56.502476000000 [33089(ThreadId 9)] ERROR APP -           instance [safe] Show
+2019-07-16 16:52:56.503039000000 [33089(ThreadId 9)] ERROR APP -                             time-1.8.0.2:Data.Time.Clock.Internal.UniversalTime.UniversalTime
+2019-07-16 16:52:56.525977000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘time-1.8.0.2:Data.Time.LocalTime.Internal.LocalTime’
+2019-07-16 16:52:56.526833000000 [33089(ThreadId 9)] ERROR APP -           instance [safe] Show time-1.8.0.2:Data.Time.Calendar.Days.Day
+2019-07-16 16:52:56.527634000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘time-1.8.0.2:Data.Time.Calendar.Gregorian’
+2019-07-16 16:52:56.528473000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.Exception.Type.ArithException
+2019-07-16 16:52:56.529154000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Exception.Type’
+2019-07-16 16:52:56.529865000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.Exception.Type.SomeException
+2019-07-16 16:52:56.530525000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Exception.Type’
+2019-07-16 16:52:56.531598000000 [33089(ThreadId 9)] ERROR APP -           instance Show Control.Exception.Base.NestedAtomically
+2019-07-16 16:52:56.550908000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘Control.Exception.Base’
+2019-07-16 16:52:56.551565000000 [33089(ThreadId 9)] ERROR APP -           instance Show Control.Exception.Base.NoMethodError
+2019-07-16 16:52:56.552445000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘Control.Exception.Base’
+2019-07-16 16:52:56.559763000000 [33089(ThreadId 9)] ERROR APP -           instance Show Control.Exception.Base.NonTermination
+2019-07-16 16:52:56.561039000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘Control.Exception.Base’
+2019-07-16 16:52:56.561650000000 [33089(ThreadId 9)] ERROR APP -           instance Show Control.Exception.Base.PatternMatchFail
+2019-07-16 16:52:56.564178000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘Control.Exception.Base’
+2019-07-16 16:52:56.565027000000 [33089(ThreadId 9)] ERROR APP -           instance Show Control.Exception.Base.RecConError
+2019-07-16 16:52:56.565784000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘Control.Exception.Base’
+2019-07-16 16:52:56.567807000000 [33089(ThreadId 9)] ERROR APP -           instance Show Control.Exception.Base.RecSelError
+2019-07-16 16:52:56.573144000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘Control.Exception.Base’
+2019-07-16 16:52:56.579022000000 [33089(ThreadId 9)] ERROR APP -           instance Show Control.Exception.Base.RecUpdError
+2019-07-16 16:52:56.582340000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘Control.Exception.Base’
+2019-07-16 16:52:56.583154000000 [33089(ThreadId 9)] ERROR APP -           instance Show Control.Exception.Base.TypeError
+2019-07-16 16:52:56.584060000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘Control.Exception.Base’
+2019-07-16 16:52:56.584640000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.Stack.Types.CallStack -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.585320000000 [33089(ThreadId 9)] ERROR APP -           instance Show ghc-prim-0.5.3:GHC.Types.KindRep
+2019-07-16 16:52:56.585977000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.589998000000 [33089(ThreadId 9)] ERROR APP -           instance Show ghc-prim-0.5.3:GHC.Types.Module
+2019-07-16 16:52:56.591102000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.592103000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.Natural.Natural -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.593465000000 [33089(ThreadId 9)] ERROR APP -           instance Show a => Show (GHC.Base.NonEmpty a)
+2019-07-16 16:52:56.595337000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.595920000000 [33089(ThreadId 9)] ERROR APP -           instance Show ghc-prim-0.5.3:GHC.Types.RuntimeRep
+2019-07-16 16:52:56.596605000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.597152000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.Stack.Types.SrcLoc -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.599103000000 [33089(ThreadId 9)] ERROR APP -           instance Show ghc-prim-0.5.3:GHC.Types.TrName
+2019-07-16 16:52:56.601216000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.602647000000 [33089(ThreadId 9)] ERROR APP -           instance Show ghc-prim-0.5.3:GHC.Types.TyCon
+2019-07-16 16:52:56.603893000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.604893000000 [33089(ThreadId 9)] ERROR APP -           instance Show ghc-prim-0.5.3:GHC.Types.TypeLitSort
+2019-07-16 16:52:56.606139000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.606770000000 [33089(ThreadId 9)] ERROR APP -           instance Show ghc-prim-0.5.3:GHC.Types.VecCount
+2019-07-16 16:52:56.607394000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.608050000000 [33089(ThreadId 9)] ERROR APP -           instance Show ghc-prim-0.5.3:GHC.Types.VecElem
+2019-07-16 16:52:56.608672000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Show’
+2019-07-16 16:52:56.625696000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.Unicode.GeneralCategory
+2019-07-16 16:52:56.626405000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.Unicode’
+2019-07-16 16:52:56.627005000000 [33089(ThreadId 9)] ERROR APP -           instance Show a => Show (GHC.Real.Ratio a) -- Defined in ‘GHC.Real’
+2019-07-16 16:52:56.627731000000 [33089(ThreadId 9)] ERROR APP -           instance forall k (a :: k) (b :: k).
+2019-07-16 16:52:56.628351000000 [33089(ThreadId 9)] ERROR APP -                    Show (a Data.Type.Equality.:~: b)
+2019-07-16 16:52:56.629002000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘Data.Type.Equality’
+2019-07-16 16:52:56.629634000000 [33089(ThreadId 9)] ERROR APP -           instance forall k2 k1 (a :: k1) (b :: k2).
+2019-07-16 16:52:56.631949000000 [33089(ThreadId 9)] ERROR APP -                    Show (a Data.Type.Equality.:~~: b)
+2019-07-16 16:52:56.632668000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘Data.Type.Equality’
+2019-07-16 16:52:56.633483000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.AllocationLimitExceeded
+2019-07-16 16:52:56.635618000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:56.636229000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.ArrayException
+2019-07-16 16:52:56.637169000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:56.637810000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.AssertionFailed
+2019-07-16 16:52:56.638490000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:56.639013000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.AsyncException
+2019-07-16 16:52:56.640012000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:56.640551000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.BlockedIndefinitelyOnMVar
+2019-07-16 16:52:56.641100000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:56.641527000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.BlockedIndefinitelyOnSTM
+2019-07-16 16:52:56.642075000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:56.642885000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.CompactionFailed
+2019-07-16 16:52:56.643730000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:56.644129000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.Deadlock
+2019-07-16 16:52:56.644532000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:56.645502000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.ExitCode
+2019-07-16 16:52:56.646134000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:56.646734000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.FixIOException
+2019-07-16 16:52:56.647373000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:56.647981000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.IOErrorType
+2019-07-16 16:52:56.648872000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:56.649576000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.IOException
+2019-07-16 16:52:56.650263000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:56.650890000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.Exception.SomeAsyncException
+2019-07-16 16:52:56.663465000000 [33089(ThreadId 9)] ERROR APP -             -- Defined in ‘GHC.IO.Exception’
+2019-07-16 16:52:56.664101000000 [33089(ThreadId 9)] ERROR APP -           instance Show GHC.IO.MaskingState -- Defined in ‘GHC.IO’
+2019-07-16 16:52:56.664790000000 [33089(ThreadId 9)] ERROR APP -     • In a stmt of an interactive GHCi command: print it
+2019-07-16 16:53:26.658801000000 [33089(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 17:00:46.544690000000 [33281(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 17:01:02.159686000000 [33327(ThreadId 9)] ERROR APP - 
+2019-07-16 17:01:02.161248000000 [33327(ThreadId 9)] ERROR APP - <interactive>:13:1: error:
+2019-07-16 17:01:02.162089000000 [33327(ThreadId 9)] ERROR APP -     • No instance for (Show a) arising from a use of ‘print’
+2019-07-16 17:01:02.163476000000 [33327(ThreadId 9)] ERROR APP -       Cannot resolve unknown runtime type ‘a’
+2019-07-16 17:01:02.164738000000 [33327(ThreadId 9)] ERROR APP -       Use :print or :force to determine these types
+2019-07-16 17:01:02.165790000000 [33327(ThreadId 9)] ERROR APP -       Relevant bindings include
+2019-07-16 17:01:02.166622000000 [33327(ThreadId 9)] ERROR APP -         it :: Either a (b, ParseState) (bound at <interactive>:13:1)
+2019-07-16 17:01:02.167682000000 [33327(ThreadId 9)] ERROR APP -       These potential instances exist:
+2019-07-16 17:01:02.168561000000 [33327(ThreadId 9)] ERROR APP -         instance (Show a, Show b) => Show (Either a b)
+2019-07-16 17:01:02.169948000000 [33327(ThreadId 9)] ERROR APP -           -- Defined in ‘Data.Either’
+2019-07-16 17:01:02.171977000000 [33327(ThreadId 9)] ERROR APP -         instance Show Int16 -- Defined in ‘GHC.Int’
+2019-07-16 17:01:02.173094000000 [33327(ThreadId 9)] ERROR APP -         instance Show Int32 -- Defined in ‘GHC.Int’
+2019-07-16 17:01:02.173871000000 [33327(ThreadId 9)] ERROR APP -         ...plus 34 others
+2019-07-16 17:01:02.174444000000 [33327(ThreadId 9)] ERROR APP -         ...plus 53 instances involving out-of-scope types
+2019-07-16 17:01:02.175285000000 [33327(ThreadId 9)] ERROR APP -         (use -fprint-potential-instances to see them all)
+2019-07-16 17:01:02.176171000000 [33327(ThreadId 9)] ERROR APP -     • In a stmt of an interactive GHCi command: print it
+2019-07-16 17:01:43.917476000000 [33327(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 17:02:58.519032000000 [33400(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 17:03:54.938324000000 [33500(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 17:05:06.042821000000 [33561(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 17:05:47.549286000000 [33647(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 17:11:46.096648000000 [35015(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 17:12:05.506025000000 [35066(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 17:13:18.278443000000 [35370(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 17:13:52.829066000000 [35505(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 17:14:24.973781000000 [35614(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 17:15:33.833588000000 [35686(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2019-07-16 17:15:50.432754000000 [35762(ThreadId 12)] CRITICAL THREAD_MGR - Critical exit started.
+2

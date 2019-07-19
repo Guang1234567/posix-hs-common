@@ -1,0 +1,46 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "ghc",
+            "request": "launch",
+            "name": "parse",
+            "internalConsoleOptions": "openOnSessionStart",
+            "workspace": "${workspaceRoot}",
+            "startup": "/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs",
+            "startupFunc": "parse",
+            "startupArgs": "Image.Netpbm.Parser.parseByte (Data.ByteString.Lazy.Char8.pack \"sfsdf\")",
+            "stopOnEntry": false,
+            "mainArgs": "",
+            "ghciPrompt": "H>>= ",
+            "ghciInitialPrompt": "Prelude>",
+            "ghciCmd": "stack ghci --test --no-load --no-build --main-is TARGET --ghci-options -fprint-evld-with-show",
+            "ghciEnv": {},
+            "logFile": "${workspaceRoot}/.vscode/phoityne.log",
+            "logLevel": "INFOMATION",
+            "forceInspect": false
+        },
+        {
+            "type": "ghc",
+            "request": "launch",
+            "name": "parse2",
+            "internalConsoleOptions": "openOnSessionStart",
+            "workspace": "${workspaceRoot}",
+            "startup": "/Users/lihanguang/dev_kit/src_code/haskell_code/osx-hs-common/src/Image/Netpbm/Parser.hs",
+            "startupFunc": "parse2",
+            "startupArgs": "Image.Netpbm.Parser.parseByte (Data.ByteString.Lazy.Char8.pack \"sfsdf\")",
+            "stopOnEntry": false,
+            "mainArgs": "",
+            "ghciPrompt": "H>>= ",
+            "ghciInitialPrompt": "Prelude>",
+            "ghciCmd": "stack ghci --test --no-load --no-build --main-is TARGET --ghci-options -fprint-evld-with-show",
+            "ghciEnv": {},
+            "logFile": "${workspaceRoot}/.vscode/phoityne.log",
+            "logLevel": "INFOMATION",
+            "forceInspect": false
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+.stack-work/
+osx-hs-common.cabal
+*~
+dist/
+dist-*/
+.history/
+.idea
+*.iml
+.ghc.environment.*
