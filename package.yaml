@@ -24,6 +24,7 @@ dependencies:
   - haskeline
   - filepath
   - zlib
+  - QuickCheck
 default-extensions:
   - UnicodeSyntax
   - OverloadedStrings

@@ -7,3 +7,5 @@ dist-*/
 .idea
 *.iml
 .ghc.environment.*
+out/
+.vscode/*.log
